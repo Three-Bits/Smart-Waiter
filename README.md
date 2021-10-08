@@ -1,4 +1,4 @@
-<h1>This hardware project is about a smart trolley  where the foods of a restaurant will be served by a Smart Trolley, not by the waiters. </h1>
+<h3>This hardware project is about a smart trolley  where the foods of a restaurant will be served by a Smart Trolley, not by the waiters. </h3>
 
 <h6>The main working procedure of the project is explained briefly below-</h6>
 <p>•	The trolley will serve its duty from the kitchen door to the customer table.</p>
